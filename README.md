@@ -7,4 +7,3 @@
 ## How to run the code
 
 ## How to cite
-Hola
